@@ -1,0 +1,28 @@
+#container{
+	margin:auto;
+	text-align: center;
+	width:500px;
+	border-color:grey;
+	border-width:1px;
+	border-style:solid;
+}
+
+#container li{
+	list-style-type:none;
+}
+
+.message{
+	text-align:left;
+	width:400px;	
+	border-color:grey;
+	border-width:1px;
+	border-style:solid;
+	padding:5px;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+
+#msgBox {
+	text-align:left;
+	padding:25px;
+}
